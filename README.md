@@ -1,4 +1,4 @@
-# projeto2024legal
+# projeto2024chato
 
 ## Projeto da Helena
 - atividade 1
